@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetBT?_2 Pin=VR?-1
+Removed Pin From Net: NetName=GND Pin=VR?-2
+Removed Pin From Net: NetName=NetK?_5 Pin=VR?-3
+Removed Member From Class: ClassName=Przelacznik_zasilania_Monitoringu Member=VR?
+Added Component: Designator=U?(INF-PG-TO220-3-1)
+Added Pin To Net: NetName=NetBT?_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetK?_5 Pin=U?-3
+Added Member To Class: ClassName=Przelacznik_zasilania_Monitoringu Member=Component K? ALZ11B12
+Added Member To Class: ClassName=Przelacznik_zasilania_Monitoringu Member=Component P? MHDR1X2
+Added Member To Class: ClassName=Przelacznik_zasilania_Monitoringu Member=Component U? IFX25001TS V85

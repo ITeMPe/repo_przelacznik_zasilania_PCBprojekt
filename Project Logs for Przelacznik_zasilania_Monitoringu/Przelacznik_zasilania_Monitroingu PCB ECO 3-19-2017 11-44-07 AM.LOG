@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetK?_3 Pin=P?-1
+Removed Pin From Net: NetName=NetK?_4 Pin=P?-1
+Removed Pin From Net: NetName=NetK?_1 Pin=P?-2
+Removed Pin From Net: NetName=NetK?_6 Pin=P?-2
+Removed Pin From Net: NetName=NetK?_6 Pin=R?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-2
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Pin To Net: NetName=GND Pin=K?-5
+Added Pin To Net: NetName=NetK?_6 Pin=K?-6
+Added Pin To Net: NetName=NetK?_8 Pin=K?-8
+Added Pin To Net: NetName=NetK?_1 Pin=P?-1
+Added Pin To Net: NetName=NetK?_3 Pin=P?-1
+Added Pin To Net: NetName=NetK?_6 Pin=P?-2
+Added Pin To Net: NetName=NetK?_4 Pin=U?-3
+Added Pin To Net: NetName=NetK?_7 Pin=K?-7
+Added Pin To Net: NetName=NetK?_7 Pin=P?-2
+Added Pin To Net: NetName=NetK?_7 Pin=R?-1
+Added Net: Name=NetK?_7
+Added Member To Class: ClassName=Przelacznik_zasilania_Monitoringu Member=Component P? MHDR1X2

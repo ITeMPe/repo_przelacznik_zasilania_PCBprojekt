@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetBT?_1 Pin=K?-5
+Removed Pin From Net: NetName=NetBT?_2 Pin=U?-1
+Removed Pin From Net: NetName=NetBT?_1 Pin=U?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=K?-5
+Added Pin To Net: NetName=NetBT?_1 Pin=U?-1
+Added Pin To Net: NetName=NetBT?_2 Pin=U?-2
+Added Member To Class: ClassName=Przelacznik_zasilania_Monitoringu Member=Component P? MHDR1X2
